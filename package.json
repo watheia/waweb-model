@@ -1,0 +1,10 @@
+{
+  "name": "waweb-model",
+  "version": "1.0.0",
+  "description": "Watheia Labs Model",
+  "main": "index.js",
+  "repository": "https://github.com/watheia/waweb-model.git",
+  "author": "Aaron Miller <amiller@watheia.org>",
+  "license": "EPL-2.0",
+  "private": false
+}
